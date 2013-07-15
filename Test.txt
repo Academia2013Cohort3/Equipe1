@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 modification  
 
 this message shall self destroy in five seconds have fun 
+=======
+modification
+
+XD
+>>>>>>> c5c8e64d7d867d7edbdd44433ca1411ecf2e896e
