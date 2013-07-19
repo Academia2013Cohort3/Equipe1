@@ -1,11 +1,7 @@
 modification
 
 <<<<<<< HEAD
-XD
-=======
-<<<<<<< HEAD
 WAZAAAAAAAAA
 =======
 XD
 >>>>>>> c5c8e64d7d867d7edbdd44433ca1411ecf2e896e
->>>>>>> 1700fb6f40c7a6e54723fc8c1785fb9566a06c42
