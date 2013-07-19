@@ -1,7 +1,0 @@
-modification
-
-<<<<<<< HEAD
-WAZAAAAAAAAA
-=======
-XD
->>>>>>> c5c8e64d7d867d7edbdd44433ca1411ecf2e896e
